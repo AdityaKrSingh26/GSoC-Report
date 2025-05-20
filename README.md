@@ -1,7 +1,9 @@
-# GSoC 2025 Weekly Reports  
-**Contributor:** Your Name  
-**Project:** Project Title  
+# GSoC 2025 Weekly Reports ( Sugarizer Human Activity Pack )
+**Contributor:** Aditya Kumar Singh  
+**Project:** Sugarizer Human Activity Pack  
 **Organization:** Sugar Labs  
+**Email:** adityakrsingh2604@gmail.com  
+**GitHub ID:** AdityaKrSingh26 
 
 ---
 
@@ -18,28 +20,24 @@
 
 ## 📌 GSoC Weekly TODOs
 
----
 
 ### ✅ Week 1
 - [x] Task 1: Set up dev environment and intro call with mentor  
 - [ ] Task 2: Complete initial feature design and mockups  
 - [ ] Task 3: Submit first working PR  
 
----
 
 ### 🔜 Week 2
 - [ ] Task 1: Start implementing initial module  
 - [ ] Task 2: Push code to GitHub and open draft PR  
 - [ ] Task 3: Collect initial feedback from mentor  
 
----
 
 ### ⬜ Week 3
 - [ ] Task 1:  
 - [ ] Task 2: 
 - [ ] Task 3:   
 
----
 
 ### ⬜ Week 4
 - [ ] Task 1:  
@@ -50,7 +48,6 @@
 
 ## 📝 Weekly Reports
 
----
 
 ### 📖 Week 1 Report
 
