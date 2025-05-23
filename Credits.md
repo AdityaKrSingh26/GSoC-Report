@@ -1,10 +1,14 @@
 # Credits
 
-This project uses 3D models from Sketchfab. We thank the following creators for their contributions:
+This project uses 3D models from different creators. We thank the following creators for their contributions:
 
 ## 3D Models
 
-"Human" (https://skfb.ly/6Z8LI) by aaron.kalvin is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Human" (https://skfb.ly/6Z8LI) by aaron.kalvin is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Realistic Human Lungs" (https://skfb.ly/oBDWI) by neshallads is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Human heart, realistic anatomical model" (https://skfb.ly/oXBxZ) by 3d Eye Catcher is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "human-brain" (https://skfb.ly/6YqDO) by Yash_Dandavate is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- Organs by Z-Anatomy (https://github.com/LluisV/Z-Anatomy) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 <!-- Add additional model credits below using the same format:
 "Model Name" (Sketchfab URL) by creator.name is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -19,14 +23,3 @@ All models used in this project are licensed under Creative Commons Attribution 
 - You may not apply legal terms that restrict others from doing anything the license permits
 
 For more information about the CC BY 4.0 license, visit: http://creativecommons.org/licenses/by/4.0/
-
-## GSoC Project Information
-
-**Project**: [Your GSoC Project Name]  
-**Organization**: [Your Organization Name]  
-**Year**: 2024/2025  
-**Contributor**: [Your Name]
-
----
-
-*This file contains attribution information for all third-party 3D models used in this Google Summer of Code project.*
