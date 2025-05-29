@@ -4,11 +4,12 @@ This project uses 3D models from different creators. We thank the following crea
 
 ## 3D Models
 
-- "Human" (https://skfb.ly/6Z8LI) by aaron.kalvin is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- "Realistic Human Lungs" (https://skfb.ly/oBDWI) by neshallads is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- "Human heart, realistic anatomical model" (https://skfb.ly/oXBxZ) by 3d Eye Catcher is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- "human-brain" (https://skfb.ly/6YqDO) by Yash_Dandavate is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- Organs by Z-Anatomy (https://github.com/LluisV/Z-Anatomy) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Human" (https://skfb.ly/6Z8LI) by aaron.kalvin.
+- "Realistic Human Lungs" (https://skfb.ly/oBDWI) by neshallads.
+- "Human heart, realistic anatomical model" (https://skfb.ly/oXBxZ) by 3d Eye Catcher.
+- "human-brain" (https://skfb.ly/6YqDO) by Yash_Dandavate.
+- "Female Human Skeleton - ZBrush - Anatomy Study" (https://skfb.ly/LXzD) by Ruslan Gadzhiev.
+- Organs by Z-Anatomy (https://github.com/LluisV/Z-Anatomy).
 
 <!-- Add additional model credits below using the same format:
 "Model Name" (Sketchfab URL) by creator.name is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
